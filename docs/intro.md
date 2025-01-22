@@ -1,47 +1,78 @@
 ---
 sidebar_position: 1
+id: intro
+title: Welcome
+slug: /
 ---
 
-# Tutorial Intro
+# Kicktools Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the **Kicktools** documentation! 🚀  
+Kicktools is your all-in-one toolkit designed to empower streamers on platforms like **Kick** and beyond. Whether you’re managing your channel, engaging with your audience, or optimizing your workflow, Kicktools has got you covered.
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## 🎯 What is Kicktools?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Kicktools is a feature-rich platform built for creators to:
+- **Streamline Management**: Access tools for channel analytics, audience interaction, and real-time updates.
+- **Boost Engagement**: Use widgets, overlays, and chat integrations to enhance your stream.
+- **Save Time**: Automate repetitive tasks and focus on creating amazing content.
 
-### What you'll need
+Our mission is to simplify your streaming experience while providing the tools you need to succeed.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## 🛠️ Key Features
 
-Generate a new Docusaurus site using the **classic template**.
+Here’s what Kicktools offers:
 
-The classic template will automatically be added to your project after you run the command:
+- **Hype Train**: Engage your audience with interactive hype train events on **Kick**.
+- **Custom Widgets**: Build personalized overlays and widgets to level up your stream visuals.
+- **FanFinder**: Discover and connect with your fans across platforms.
+- **Stream Tools**: Alerts, timers, and other utilities to keep your audience engaged.
+- **Analytics**: Get insights into your streaming performance and audience behavior.
+- **Easy Integration**: Seamlessly connect with platforms like **Kick** and **Twitch**.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+---
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 📚 How to Use This Documentation
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+This documentation is here to help you navigate and maximize the Kicktools experience. Here’s what you’ll find:
 
-## Start your site
+1. **Getting Started**  
+   Step-by-step instructions to set up Kicktools and integrate with your streaming platform.
 
-Run the development server:
+2. **Feature Guides**  
+   Learn how to use our features, including widgets, analytics, and more.
 
-```bash
-cd my-website
-npm run start
-```
+3. **API Documentation**  
+   For developers who want to integrate Kicktools with their own projects.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+4. **FAQs and Troubleshooting**  
+   Common issues and their solutions.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+---
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## 🚀 Let’s Get Started!
+
+Ready to take your stream to the next level?  
+Check out the **[Getting Started Guide](./getting-started)** to set up Kicktools and explore its powerful features.
+
+If you have questions or need support, feel free to visit our **[Support Page](https://kicktools.app/support)** or join our **[Community Discord](https://kicktools.app/discord)**.
+
+> **Pro Tip:** Bookmark this page for quick access to all the information you need.
+
+---
+
+## 📞 Contact Us
+
+Need help or have feedback? We’d love to hear from you!
+
+- **Website**: [kicktools.app](https://kicktools.app)
+- **Dashboard**: [Dashboard Home](https://dashboard.kicktools.app)  
+- **Email**: [support@kicktools.app](mailto:support@kicktools.app)  
+- **Discord**: [Join our community](https://kicktools.app/discord)  
+
+Thank you for choosing **Kicktools**! 🎉  
+Happy streaming!  
