@@ -67,7 +67,7 @@ Individual streamer and viewer leaderboards are also available. These leaderboar
 
 The **KickTools Power Ranking System** evaluates streamer performance using a weighted scoring approach to identify top performers in the community. This system considers various metrics for a comprehensive view of success.
 
-For more details, visit the [Power Ranking System Guide](power_ranking_system.html).
+For more details, visit the [Power Ranking System Guide](power-ranking.md).
 
 ---
 

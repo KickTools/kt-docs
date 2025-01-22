@@ -56,9 +56,6 @@ This documentation is here to help you navigate and maximize the Kicktools exper
 
 ## 🚀 Let’s Get Started!
 
-Ready to take your stream to the next level?  
-Check out the **[Getting Started Guide](./getting-started)** to set up Kicktools and explore its powerful features.
-
 If you have questions or need support, feel free to visit our **[Support Page](https://kicktools.app/support)** or join our **[Community Discord](https://kicktools.app/discord)**.
 
 > **Pro Tip:** Bookmark this page for quick access to all the information you need.
